@@ -1,3 +1,3 @@
-# best-repo-ever
-Salesforce Git tutorial at Central Coffee and Tea
+Salesforce Git tutorial at Central Coffee
 Nice day to work but cold
+
